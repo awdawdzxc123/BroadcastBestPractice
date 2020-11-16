@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BroadcastBestPractice</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="add_user">用户注册</string>
+    <string name="account_number">请输入账号</string>
+    <string name="Input_password">请输入密码</string>
+    <string name="wangjimm">忘记密码</string>
+    <string name="zec">用户注册</string>
+    <string name="tu">图</string>
 </resources>
